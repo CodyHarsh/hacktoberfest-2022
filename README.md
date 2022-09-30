@@ -19,8 +19,6 @@ A month-long celebration from October 1st - 31st sponsored by [Digital Ocean](ht
 ## How to contribute to this project
 Here are 3 quick and painless ways to contribute to this project:
 
-* Add your name to the `CONTRIBUTORS.md` file
-* Add a profile page to the `profiles` directory
 * Create a simple "Hello, World" script in a language of your choice
 
 Choose one or all 3, make a pull request for your work and wait for it to be merged!
@@ -57,13 +55,12 @@ git push origin branch-name
 Add your name to the `CONTRIBUTORS.md` file using the below convention:
 
 ```markdown
-#### Name: [YOUR NAME](GitHub link)
+#### Name: [YOUR NAME]
 - Place: City, State, Country
 - Bio: Who are you?
-- GitHub: [GitHub account name](GitHub link)
 ```
 
-### 2. Add a profile page
+### 2. Add name in your file
 Add a `Your_Name.md` file to the `profiles` directory. Use any combination of content and Markdown you'd like. Here is an example:
 
 ```markdown
