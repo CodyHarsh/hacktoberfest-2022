@@ -21,6 +21,8 @@ Here are 1 quick and painless ways to contribute to this project:
 
 * Create a simple "Hello, World" script in a language of your choice
 
+Note: Try to submit 4 pull request with other names.
+
 Make a pull request for your work and wait for it to be merged!
 
 ## Getting started
