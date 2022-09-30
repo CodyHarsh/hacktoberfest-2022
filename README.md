@@ -21,7 +21,7 @@ Here are 1 quick and painless ways to contribute to this project:
 
 * Create a simple "Hello, World" script in a language of your choice
 
-Choose one or all 3, make a pull request for your work and wait for it to be merged!
+Make a pull request for your work and wait for it to be merged!
 
 ## Getting started
 * Fork this repository (Click the Fork button in the top right of this page, click your Profile Image)
